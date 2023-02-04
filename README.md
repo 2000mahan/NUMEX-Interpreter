@@ -1,10 +1,13 @@
 # NUMEX-Interpreter
-This project is an Interpreter for a pure functional programming language called NUMEX(Number-Expression Programming Language). NUMEX programs are written using the constructions defined by structs defined at the beginning of project.rkt.
- More information about the NUMEX Interpreter is explained in project_specification.pdf
- 
+ It is the final project of AUT Programming Languages course.
+
  > Instructor: [Dr. Mehran S. Fallah](https://scholar.google.com/citations?user=YuWjnLwAAAAJ&hl=en)
 
 > Semester: Fall 2022
+
+## About
+This project is an Interpreter for a pure functional programming language called NUMEX(Number-Expression Programming Language). NUMEX programs are written using the constructions defined by structs defined at the beginning of project.rkt.
+ More information about the NUMEX Interpreter is explained in project_specification.pdf
 
 ## Example
 ### fibonacci function 
